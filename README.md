@@ -1,4 +1,4 @@
-# Project-002: FifaWorldCup-22 App App (RP-02)
+# Project: FifaWorldCup-22 App-JS REACT
 
 ## Description
 
@@ -11,7 +11,7 @@ Project aims to create a Languages Cards App.
 ## Project Skeleton
 
 ```
-002-FifaWorldCup-22 App(folder)
+FifaWorldCup-22 App(folder)
 |
 |----readme.md         # Given to (Definition of the project)
 SOLUTION
@@ -69,14 +69,7 @@ Build a FifaWorldCup-22 App using ReactJS.
 1. There should be only one lock file `package-lock.json` or `yarn.lock`.
 2. There shouldn't be any warnings in your application.
 3. If you have deployed your app to github pages before, you should remove `homepage` property from `package.json`.
+![Form](./src//assets/animation.gif)
+<br>
+[Repo: =>](https://github.com/mdemirci571/Fifa_World_Cup-22)
 
-You can use any of these sites for deployment
-
-- https://www.netlify.com/
-- https://vercel.com/
-- https://render.com/
-- https://app.cyclic.sh/
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
